@@ -1,0 +1,30 @@
+* {
+    font-family: 'Comic Sans MS', cursive;
+}
+
+body {
+    margin: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 15px;
+}
+
+select {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+}
+
+option {
+    font-family: cursive;
+    padding: 10px;
+}
+
+p {
+    margin-top: 30px;
+}
